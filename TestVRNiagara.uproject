@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{24642429-4DE9-CB40-B763-5BA78DF9E974}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestVRNiagara",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
